@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="52793GouravGoyal.MeditateMe" version="1.0" primary="true">
+		<Qualifiers>
+			<Scale>100</Scale>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://52793GouravGoyal.MeditateMe/Files/App.xbf">
+				<Candidate type="Path">
+					<Value>App.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="GroupDetailPage.xbf" uri="ms-resource://52793GouravGoyal.MeditateMe/Files/GroupDetailPage.xbf">
+				<Candidate type="Path">
+					<Value>GroupDetailPage.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="GroupedItemsPage.xbf" uri="ms-resource://52793GouravGoyal.MeditateMe/Files/GroupedItemsPage.xbf">
+				<Candidate type="Path">
+					<Value>GroupedItemsPage.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ItemDetailPage.xbf" uri="ms-resource://52793GouravGoyal.MeditateMe/Files/ItemDetailPage.xbf">
+				<Candidate type="Path">
+					<Value>ItemDetailPage.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Meditate Me.xr.xml" uri="ms-resource://52793GouravGoyal.MeditateMe/Files/Meditate%20Me.xr.xml">
+				<Candidate type="Path">
+					<Value>Meditate Me.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="1012476.large.jpg" uri="ms-resource://52793GouravGoyal.MeditateMe/Files/Assets/1012476.large.jpg">
+					<Candidate type="Path">
+						<Value>Assets\1012476.large.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="17qaghpb381fyjpg.jpg" uri="ms-resource://52793GouravGoyal.MeditateMe/Files/Assets/17qaghpb381fyjpg.jpg">
+					<Candidate type="Path">
+						<Value>Assets\17qaghpb381fyjpg.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="22374-1_l.jpg" uri="ms-resource://52793GouravGoyal.MeditateMe/Files/Assets/22374-1_l.jpg">
+					<Candidate type="Path">
+						<Value>Assets\22374-1_l.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="327a32794d065e3126bb48c1fc6243ea.jpg" uri="ms-resource://52793GouravGoyal.MeditateMe/Files/Assets/327a32794d065e3126bb48c1fc6243ea.jpg">
+					<Candidate type="Path">
+						<Value>Assets\327a32794d065e3126bb48c1fc6243ea.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="6-step-meditation.jpg" uri="ms-resource://52793GouravGoyal.MeditateMe/Files/Assets/6-step-meditation.jpg">
+					<Candidate type="Path">
+						<Value>Assets\6-step-meditation.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="angry-meditating-woman1.jpg" uri="ms-resource://52793GouravGoyal.MeditateMe/Files/Assets/angry-meditating-woman1.jpg">
+					<Candidate type="Path">
+						<Value>Assets\angry-meditating-woman1.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Benefits-of-Meditation.jpg" uri="ms-resource://52793GouravGoyal.MeditateMe/Files/Assets/Benefits-of-Meditation.jpg">
+					<Candidate type="Path">
+						<Value>Assets\Benefits-of-Meditation.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="blackwhite,meditation,tire,yoga-3c5d945af1ae41f6c683ca54884f5b1e_h.jpg" uri="ms-resource://52793GouravGoyal.MeditateMe/Files/Assets/blackwhite%2Cmeditation%2Ctire%2Cyoga-3c5d945af1ae41f6c683ca54884f5b1e_h.jpg">
+					<Candidate type="Path">
+						<Value>Assets\blackwhite,meditation,tire,yoga-3c5d945af1ae41f6c683ca54884f5b1e_h.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="clear-your-mind.jpg" uri="ms-resource://52793GouravGoyal.MeditateMe/Files/Assets/clear-your-mind.jpg">
+					<Candidate type="Path">
+						<Value>Assets\clear-your-mind.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Depositphotos_meditation1_s1-648x350.jpg" uri="ms-resource://52793GouravGoyal.MeditateMe/Files/Assets/Depositphotos_meditation1_s1-648x350.jpg">
+					<Candidate type="Path">
+						<Value>Assets\Depositphotos_meditation1_s1-648x350.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="dreamstime_88491751.jpg" uri="ms-resource://52793GouravGoyal.MeditateMe/Files/Assets/dreamstime_88491751.jpg">
+					<Candidate type="Path">
+						<Value>Assets\dreamstime_88491751.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="eyes.jpg" uri="ms-resource://52793GouravGoyal.MeditateMe/Files/Assets/eyes.jpg">
+					<Candidate type="Path">
+						<Value>Assets\eyes.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="free-guided-meditation-music.jpg" uri="ms-resource://52793GouravGoyal.MeditateMe/Files/Assets/free-guided-meditation-music.jpg">
+					<Candidate type="Path">
+						<Value>Assets\free-guided-meditation-music.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="happy-herbs-featured-e1393221690358.jpg" uri="ms-resource://52793GouravGoyal.MeditateMe/Files/Assets/happy-herbs-featured-e1393221690358.jpg">
+					<Candidate type="Path">
+						<Value>Assets\happy-herbs-featured-e1393221690358.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Heart-Meditation150.png" uri="ms-resource://52793GouravGoyal.MeditateMe/Files/Assets/Heart-Meditation150.png">
+					<Candidate type="Path">
+						<Value>Assets\Heart-Meditation150.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Heart-Meditation30.png" uri="ms-resource://52793GouravGoyal.MeditateMe/Files/Assets/Heart-Meditation30.png">
+					<Candidate type="Path">
+						<Value>Assets\Heart-Meditation30.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Heart-Meditation43.png" uri="ms-resource://52793GouravGoyal.MeditateMe/Files/Assets/Heart-Meditation43.png"/>
+				<NamedResource name="Heart-Meditation50.png" uri="ms-resource://52793GouravGoyal.MeditateMe/Files/Assets/Heart-Meditation50.png">
+					<Candidate type="Path">
+						<Value>Assets\Heart-Meditation50.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Heart-Meditation70.png" uri="ms-resource://52793GouravGoyal.MeditateMe/Files/Assets/Heart-Meditation70.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\Heart-Meditation70.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Heart-Meditation90.png" uri="ms-resource://52793GouravGoyal.MeditateMe/Files/Assets/Heart-Meditation90.png">
+					<Candidate type="Path">
+						<Value>Assets\Heart-Meditation90.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="insomnia.jpg" uri="ms-resource://52793GouravGoyal.MeditateMe/Files/Assets/insomnia.jpg">
+					<Candidate type="Path">
+						<Value>Assets\insomnia.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Introduction-to-Meditation.jpg" uri="ms-resource://52793GouravGoyal.MeditateMe/Files/Assets/Introduction-to-Meditation.jpg">
+					<Candidate type="Path">
+						<Value>Assets\Introduction-to-Meditation.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Logo.png" uri="ms-resource://52793GouravGoyal.MeditateMe/Files/Assets/Logo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\Logo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="maxresdefault.jpg" uri="ms-resource://52793GouravGoyal.MeditateMe/Files/Assets/maxresdefault.jpg">
+					<Candidate type="Path">
+						<Value>Assets\maxresdefault.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Meditation (1).png" uri="ms-resource://52793GouravGoyal.MeditateMe/Files/Assets/Meditation%20%281%29.png">
+					<Candidate type="Path">
+						<Value>Assets\Meditation (1).png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="meditation guided meditation relaxing relaxation heart love.jpg" uri="ms-resource://52793GouravGoyal.MeditateMe/Files/Assets/meditation%20guided%20meditation%20relaxing%20relaxation%20heart%20love.jpg">
+					<Candidate type="Path">
+						<Value>Assets\meditation guided meditation relaxing relaxation heart love.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Meditation-Benefits-Blog.jpg" uri="ms-resource://52793GouravGoyal.MeditateMe/Files/Assets/Meditation-Benefits-Blog.jpg">
+					<Candidate type="Path">
+						<Value>Assets\Meditation-Benefits-Blog.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="meditation-bubble.jpg" uri="ms-resource://52793GouravGoyal.MeditateMe/Files/Assets/meditation-bubble.jpg">
+					<Candidate type="Path">
+						<Value>Assets\meditation-bubble.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="meditation-is-not-difficult.gif" uri="ms-resource://52793GouravGoyal.MeditateMe/Files/Assets/meditation-is-not-difficult.gif">
+					<Candidate type="Path">
+						<Value>Assets\meditation-is-not-difficult.gif</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="meditation-practice.jpg" uri="ms-resource://52793GouravGoyal.MeditateMe/Files/Assets/meditation-practice.jpg">
+					<Candidate type="Path">
+						<Value>Assets\meditation-practice.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="meditation_zpsf40f7034.jpg" uri="ms-resource://52793GouravGoyal.MeditateMe/Files/Assets/meditation_zpsf40f7034.jpg">
+					<Candidate type="Path">
+						<Value>Assets\meditation_zpsf40f7034.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="medytacja-chrzescijanska-cialo-622x414.jpg" uri="ms-resource://52793GouravGoyal.MeditateMe/Files/Assets/medytacja-chrzescijanska-cialo-622x414.jpg">
+					<Candidate type="Path">
+						<Value>Assets\medytacja-chrzescijanska-cialo-622x414.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Mindful_meditation.png" uri="ms-resource://52793GouravGoyal.MeditateMe/Files/Assets/Mindful_meditation.png">
+					<Candidate type="Path">
+						<Value>Assets\Mindful_meditation.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="o-MEDITATION-HEALTH-BENEFITS-facebook.jpg" uri="ms-resource://52793GouravGoyal.MeditateMe/Files/Assets/o-MEDITATION-HEALTH-BENEFITS-facebook.jpg">
+					<Candidate type="Path">
+						<Value>Assets\o-MEDITATION-HEALTH-BENEFITS-facebook.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="o-MINDFULNESS-MEDITATION-facebook.jpg" uri="ms-resource://52793GouravGoyal.MeditateMe/Files/Assets/o-MINDFULNESS-MEDITATION-facebook.jpg">
+					<Candidate type="Path">
+						<Value>Assets\o-MINDFULNESS-MEDITATION-facebook.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="passi.jpg" uri="ms-resource://52793GouravGoyal.MeditateMe/Files/Assets/passi.jpg">
+					<Candidate type="Path">
+						<Value>Assets\passi.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Relax-Mind-and-Body.jpg" uri="ms-resource://52793GouravGoyal.MeditateMe/Files/Assets/Relax-Mind-and-Body.jpg">
+					<Candidate type="Path">
+						<Value>Assets\Relax-Mind-and-Body.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="s1_1.jpg" uri="ms-resource://52793GouravGoyal.MeditateMe/Files/Assets/s1_1.jpg">
+					<Candidate type="Path">
+						<Value>Assets\s1_1.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="s3_1.jpg" uri="ms-resource://52793GouravGoyal.MeditateMe/Files/Assets/s3_1.jpg">
+					<Candidate type="Path">
+						<Value>Assets\s3_1.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="s4_1.jpg" uri="ms-resource://52793GouravGoyal.MeditateMe/Files/Assets/s4_1.jpg">
+					<Candidate type="Path">
+						<Value>Assets\s4_1.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="s5_1.jpg" uri="ms-resource://52793GouravGoyal.MeditateMe/Files/Assets/s5_1.jpg">
+					<Candidate type="Path">
+						<Value>Assets\s5_1.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="shutterstock_72213241.jpg" uri="ms-resource://52793GouravGoyal.MeditateMe/Files/Assets/shutterstock_72213241.jpg">
+					<Candidate type="Path">
+						<Value>Assets\shutterstock_72213241.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SmallLogo.png" uri="ms-resource://52793GouravGoyal.MeditateMe/Files/Assets/SmallLogo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\SmallLogo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="stanford-compassion.jpg" uri="ms-resource://52793GouravGoyal.MeditateMe/Files/Assets/stanford-compassion.jpg">
+					<Candidate type="Path">
+						<Value>Assets\stanford-compassion.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://52793GouravGoyal.MeditateMe/Files/Assets/StoreLogo.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\StoreLogo.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="s_1_1.jpg" uri="ms-resource://52793GouravGoyal.MeditateMe/Files/Assets/s_1_1.jpg">
+					<Candidate type="Path">
+						<Value>Assets\s_1_1.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Untitled1 copy.jpg" uri="ms-resource://52793GouravGoyal.MeditateMe/Files/Assets/Untitled1%20copy.jpg">
+					<Candidate type="Path">
+						<Value>Assets\Untitled1 copy.jpg</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Untitled310.png" uri="ms-resource://52793GouravGoyal.MeditateMe/Files/Assets/Untitled310.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\Untitled310.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Untitled310150.png" uri="ms-resource://52793GouravGoyal.MeditateMe/Files/Assets/Untitled310150.png">
+					<Candidate qualifiers="Scale-100" isDefault="true" type="Path">
+						<Value>Assets\Untitled310150.scale-100.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Untitleds.png" uri="ms-resource://52793GouravGoyal.MeditateMe/Files/Assets/Untitleds.png">
+					<Candidate type="Path">
+						<Value>Assets\Untitleds.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="DataModel">
+				<NamedResource name="SampleData.json" uri="ms-resource://52793GouravGoyal.MeditateMe/Files/DataModel/SampleData.json">
+					<Candidate type="Path">
+						<Value>DataModel\SampleData.json</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

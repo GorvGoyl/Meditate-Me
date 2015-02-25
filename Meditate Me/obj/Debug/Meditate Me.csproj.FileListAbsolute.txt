@@ -1,0 +1,84 @@
+c:\users\1gour_000\documents\visual studio 2013\Projects\Meditate Me\Meditate Me\bin\Debug\App.xbf
+c:\users\1gour_000\documents\visual studio 2013\Projects\Meditate Me\Meditate Me\bin\Debug\GroupedItemsPage.xbf
+c:\users\1gour_000\documents\visual studio 2013\Projects\Meditate Me\Meditate Me\bin\Debug\GroupDetailPage.xbf
+c:\users\1gour_000\documents\visual studio 2013\Projects\Meditate Me\Meditate Me\bin\Debug\ItemDetailPage.xbf
+c:\users\1gour_000\documents\visual studio 2013\Projects\Meditate Me\Meditate Me\bin\Debug\Meditate Me.xr.xml
+c:\users\1gour_000\documents\visual studio 2013\Projects\Meditate Me\Meditate Me\bin\Debug\Meditate Me.exe
+c:\users\1gour_000\documents\visual studio 2013\Projects\Meditate Me\Meditate Me\bin\Debug\Meditate Me.pdb
+c:\users\1gour_000\documents\visual studio 2013\Projects\Meditate Me\Meditate Me\bin\Debug\resources.pri
+c:\users\1gour_000\documents\visual studio 2013\Projects\Meditate Me\Meditate Me\bin\Debug\AppxManifest.xml
+c:\users\1gour_000\documents\visual studio 2013\Projects\Meditate Me\Meditate Me\bin\Debug\Meditate Me.build.appxrecipe
+c:\users\1gour_000\documents\visual studio 2013\Projects\Meditate Me\Meditate Me\obj\Debug\App.g.i.cs
+c:\users\1gour_000\documents\visual studio 2013\Projects\Meditate Me\Meditate Me\obj\Debug\App.g.cs
+c:\users\1gour_000\documents\visual studio 2013\Projects\Meditate Me\Meditate Me\obj\Debug\GroupedItemsPage.g.i.cs
+c:\users\1gour_000\documents\visual studio 2013\Projects\Meditate Me\Meditate Me\obj\Debug\GroupedItemsPage.g.cs
+c:\users\1gour_000\documents\visual studio 2013\Projects\Meditate Me\Meditate Me\obj\Debug\GroupDetailPage.g.i.cs
+c:\users\1gour_000\documents\visual studio 2013\Projects\Meditate Me\Meditate Me\obj\Debug\GroupDetailPage.g.cs
+c:\users\1gour_000\documents\visual studio 2013\Projects\Meditate Me\Meditate Me\obj\Debug\ItemDetailPage.g.i.cs
+c:\users\1gour_000\documents\visual studio 2013\Projects\Meditate Me\Meditate Me\obj\Debug\ItemDetailPage.g.cs
+c:\users\1gour_000\documents\visual studio 2013\Projects\Meditate Me\Meditate Me\obj\Debug\XamlTypeInfo.g.cs
+c:\users\1gour_000\documents\visual studio 2013\Projects\Meditate Me\Meditate Me\obj\Debug\App.xaml
+c:\users\1gour_000\documents\visual studio 2013\Projects\Meditate Me\Meditate Me\obj\Debug\GroupedItemsPage.xaml
+c:\users\1gour_000\documents\visual studio 2013\Projects\Meditate Me\Meditate Me\obj\Debug\GroupDetailPage.xaml
+c:\users\1gour_000\documents\visual studio 2013\Projects\Meditate Me\Meditate Me\obj\Debug\ItemDetailPage.xaml
+c:\users\1gour_000\documents\visual studio 2013\Projects\Meditate Me\Meditate Me\obj\Debug\App.xbf
+c:\users\1gour_000\documents\visual studio 2013\Projects\Meditate Me\Meditate Me\obj\Debug\GroupedItemsPage.xbf
+c:\users\1gour_000\documents\visual studio 2013\Projects\Meditate Me\Meditate Me\obj\Debug\GroupDetailPage.xbf
+c:\users\1gour_000\documents\visual studio 2013\Projects\Meditate Me\Meditate Me\obj\Debug\ItemDetailPage.xbf
+c:\users\1gour_000\documents\visual studio 2013\Projects\Meditate Me\Meditate Me\obj\Debug\XamlSaveStateFile.xml
+c:\users\1gour_000\documents\visual studio 2013\Projects\Meditate Me\Meditate Me\obj\Debug\Meditate Me.exe
+c:\users\1gour_000\documents\visual studio 2013\Projects\Meditate Me\Meditate Me\obj\Debug\Meditate Me.pdb
+c:\users\1gour_000\documents\visual studio 2013\Projects\Meditate Me\Meditate Me\obj\Debug\priconfig.xml
+c:\users\1gour_000\documents\visual studio 2013\Projects\Meditate Me\Meditate Me\obj\Debug\priconfig.xml.intermediate
+c:\users\1gour_000\documents\visual studio 2013\Projects\Meditate Me\Meditate Me\obj\Debug\layout.resfiles
+c:\users\1gour_000\documents\visual studio 2013\Projects\Meditate Me\Meditate Me\obj\Debug\layout.resfiles.intermediate
+c:\users\1gour_000\documents\visual studio 2013\Projects\Meditate Me\Meditate Me\obj\Debug\resources.resfiles
+c:\users\1gour_000\documents\visual studio 2013\Projects\Meditate Me\Meditate Me\obj\Debug\resources.resfiles.intermediate
+c:\users\1gour_000\documents\visual studio 2013\Projects\Meditate Me\Meditate Me\obj\Debug\pri.resfiles
+c:\users\1gour_000\documents\visual studio 2013\Projects\Meditate Me\Meditate Me\obj\Debug\pri.resfiles.intermediate
+c:\users\1gour_000\documents\visual studio 2013\Projects\Meditate Me\Meditate Me\obj\Debug\qualifiers.txt
+c:\users\1gour_000\documents\visual studio 2013\Projects\Meditate Me\Meditate Me\obj\Debug\qualifiers.txt.intermediate
+c:\users\1gour_000\documents\visual studio 2013\Projects\Meditate Me\Meditate Me\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\1gour_000\documents\visual studio 2013\Projects\Meditate Me\Meditate Me\obj\Debug\ProjectArchitectures.txt
+C:\Users\Jerry\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\bin\Debug\App.xbf
+C:\Users\Jerry\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\bin\Debug\GroupedItemsPage.xbf
+C:\Users\Jerry\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\bin\Debug\GroupDetailPage.xbf
+C:\Users\Jerry\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\bin\Debug\ItemDetailPage.xbf
+C:\Users\Jerry\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\bin\Debug\Meditate Me.xr.xml
+C:\Users\Jerry\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\bin\Debug\Meditate Me.exe
+C:\Users\Jerry\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\bin\Debug\Meditate Me.pdb
+C:\Users\Jerry\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\bin\Debug\resources.pri
+C:\Users\Jerry\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\bin\Debug\AppxManifest.xml
+C:\Users\Jerry\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\bin\Debug\Meditate Me.build.appxrecipe
+C:\Users\Jerry\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\obj\Debug\App.g.i.cs
+C:\Users\Jerry\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\obj\Debug\App.g.cs
+C:\Users\Jerry\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\obj\Debug\GroupedItemsPage.g.i.cs
+C:\Users\Jerry\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\obj\Debug\GroupedItemsPage.g.cs
+C:\Users\Jerry\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\obj\Debug\GroupDetailPage.g.i.cs
+C:\Users\Jerry\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\obj\Debug\GroupDetailPage.g.cs
+C:\Users\Jerry\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\obj\Debug\ItemDetailPage.g.i.cs
+C:\Users\Jerry\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\obj\Debug\ItemDetailPage.g.cs
+C:\Users\Jerry\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Jerry\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\obj\Debug\App.xaml
+C:\Users\Jerry\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\obj\Debug\GroupedItemsPage.xaml
+C:\Users\Jerry\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\obj\Debug\GroupDetailPage.xaml
+C:\Users\Jerry\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\obj\Debug\ItemDetailPage.xaml
+C:\Users\Jerry\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\obj\Debug\App.xbf
+C:\Users\Jerry\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\obj\Debug\GroupedItemsPage.xbf
+C:\Users\Jerry\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\obj\Debug\GroupDetailPage.xbf
+C:\Users\Jerry\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\obj\Debug\ItemDetailPage.xbf
+C:\Users\Jerry\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Jerry\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\obj\Debug\Meditate Me.exe
+C:\Users\Jerry\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\obj\Debug\Meditate Me.pdb
+C:\Users\Jerry\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\obj\Debug\priconfig.xml
+C:\Users\Jerry\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\obj\Debug\priconfig.xml.intermediate
+C:\Users\Jerry\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\obj\Debug\layout.resfiles
+C:\Users\Jerry\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\obj\Debug\layout.resfiles.intermediate
+C:\Users\Jerry\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\obj\Debug\resources.resfiles
+C:\Users\Jerry\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\obj\Debug\resources.resfiles.intermediate
+C:\Users\Jerry\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\obj\Debug\pri.resfiles
+C:\Users\Jerry\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\obj\Debug\pri.resfiles.intermediate
+C:\Users\Jerry\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\obj\Debug\qualifiers.txt
+C:\Users\Jerry\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Jerry\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Jerry\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\obj\Debug\ProjectArchitectures.txt

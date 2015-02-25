@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>JERRY</Machine>
+    <WindowsUser>Jerry</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>52793GouravGoyal.MeditateMe</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\1gour_000\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\obj\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\1gour_000\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\1gour_000\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\bin\Release\Meditate Me.exe">
+      <PackagePath>Meditate Me.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1gour_000\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\Assets\1012476.large.jpg">
+      <PackagePath>Assets\1012476.large.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1gour_000\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\Assets\17qaghpb381fyjpg.jpg">
+      <PackagePath>Assets\17qaghpb381fyjpg.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1gour_000\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\Assets\22374-1_l.jpg">
+      <PackagePath>Assets\22374-1_l.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1gour_000\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\Assets\327a32794d065e3126bb48c1fc6243ea.jpg">
+      <PackagePath>Assets\327a32794d065e3126bb48c1fc6243ea.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1gour_000\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\Assets\6-step-meditation.jpg">
+      <PackagePath>Assets\6-step-meditation.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1gour_000\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\Assets\angry-meditating-woman1.jpg">
+      <PackagePath>Assets\angry-meditating-woman1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1gour_000\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\Assets\Benefits-of-Meditation.jpg">
+      <PackagePath>Assets\Benefits-of-Meditation.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1gour_000\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\Assets\blackwhite,meditation,tire,yoga-3c5d945af1ae41f6c683ca54884f5b1e_h.jpg">
+      <PackagePath>Assets\blackwhite,meditation,tire,yoga-3c5d945af1ae41f6c683ca54884f5b1e_h.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1gour_000\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\Assets\clear-your-mind.jpg">
+      <PackagePath>Assets\clear-your-mind.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1gour_000\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\Assets\Depositphotos_meditation1_s1-648x350.jpg">
+      <PackagePath>Assets\Depositphotos_meditation1_s1-648x350.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1gour_000\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\Assets\dreamstime_88491751.jpg">
+      <PackagePath>Assets\dreamstime_88491751.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1gour_000\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\Assets\eyes.jpg">
+      <PackagePath>Assets\eyes.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1gour_000\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\Assets\free-guided-meditation-music.jpg">
+      <PackagePath>Assets\free-guided-meditation-music.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1gour_000\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\Assets\happy-herbs-featured-e1393221690358.jpg">
+      <PackagePath>Assets\happy-herbs-featured-e1393221690358.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1gour_000\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\Assets\insomnia.jpg">
+      <PackagePath>Assets\insomnia.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1gour_000\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\Assets\Introduction-to-Meditation.jpg">
+      <PackagePath>Assets\Introduction-to-Meditation.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1gour_000\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\Assets\maxresdefault.jpg">
+      <PackagePath>Assets\maxresdefault.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1gour_000\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\Assets\meditation guided meditation relaxing relaxation heart love.jpg">
+      <PackagePath>Assets\meditation guided meditation relaxing relaxation heart love.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1gour_000\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\Assets\Meditation-Benefits-Blog.jpg">
+      <PackagePath>Assets\Meditation-Benefits-Blog.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1gour_000\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\Assets\meditation-bubble.jpg">
+      <PackagePath>Assets\meditation-bubble.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1gour_000\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\Assets\meditation-practice.jpg">
+      <PackagePath>Assets\meditation-practice.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1gour_000\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\Assets\meditation_zpsf40f7034.jpg">
+      <PackagePath>Assets\meditation_zpsf40f7034.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1gour_000\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\Assets\medytacja-chrzescijanska-cialo-622x414.jpg">
+      <PackagePath>Assets\medytacja-chrzescijanska-cialo-622x414.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1gour_000\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\Assets\o-MEDITATION-HEALTH-BENEFITS-facebook.jpg">
+      <PackagePath>Assets\o-MEDITATION-HEALTH-BENEFITS-facebook.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1gour_000\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\Assets\o-MINDFULNESS-MEDITATION-facebook.jpg">
+      <PackagePath>Assets\o-MINDFULNESS-MEDITATION-facebook.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1gour_000\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\Assets\passi.jpg">
+      <PackagePath>Assets\passi.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1gour_000\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\Assets\Relax-Mind-and-Body.jpg">
+      <PackagePath>Assets\Relax-Mind-and-Body.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1gour_000\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\Assets\s1_1.jpg">
+      <PackagePath>Assets\s1_1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1gour_000\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\Assets\s3_1.jpg">
+      <PackagePath>Assets\s3_1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1gour_000\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\Assets\s4_1.jpg">
+      <PackagePath>Assets\s4_1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1gour_000\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\Assets\s5_1.jpg">
+      <PackagePath>Assets\s5_1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1gour_000\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\Assets\shutterstock_72213241.jpg">
+      <PackagePath>Assets\shutterstock_72213241.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1gour_000\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\Assets\stanford-compassion.jpg">
+      <PackagePath>Assets\stanford-compassion.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1gour_000\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\Assets\s_1_1.jpg">
+      <PackagePath>Assets\s_1_1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1gour_000\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\Assets\Untitled1 copy.jpg">
+      <PackagePath>Assets\Untitled1 copy.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1gour_000\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\Assets\Heart-Meditation150.png">
+      <PackagePath>Assets\Heart-Meditation150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1gour_000\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\Assets\Heart-Meditation30.png">
+      <PackagePath>Assets\Heart-Meditation30.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1gour_000\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\Assets\Heart-Meditation43.scale-180.png">
+      <PackagePath>Assets\Heart-Meditation43.scale-180.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1gour_000\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\Assets\Heart-Meditation50.png">
+      <PackagePath>Assets\Heart-Meditation50.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1gour_000\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\Assets\Heart-Meditation70.scale-100.png">
+      <PackagePath>Assets\Heart-Meditation70.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1gour_000\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\Assets\Heart-Meditation90.png">
+      <PackagePath>Assets\Heart-Meditation90.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1gour_000\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1gour_000\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\Assets\Meditation %281%29.png">
+      <PackagePath>Assets\Meditation %281%29.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1gour_000\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\Assets\Mindful_meditation.png">
+      <PackagePath>Assets\Mindful_meditation.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1gour_000\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\Assets\StoreLogo.scale-140.png">
+      <PackagePath>Assets\StoreLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1gour_000\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\Assets\StoreLogo.scale-180.png">
+      <PackagePath>Assets\StoreLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1gour_000\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\Assets\Untitled310.scale-100.png">
+      <PackagePath>Assets\Untitled310.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1gour_000\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\Assets\Untitled310150.scale-100.png">
+      <PackagePath>Assets\Untitled310150.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1gour_000\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\Assets\Untitleds.png">
+      <PackagePath>Assets\Untitleds.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1gour_000\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1gour_000\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1gour_000\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\Assets\meditation-is-not-difficult.gif">
+      <PackagePath>Assets\meditation-is-not-difficult.gif</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1gour_000\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\DataModel\SampleData.json">
+      <PackagePath>DataModel\SampleData.json</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1gour_000\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1gour_000\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\bin\Release\GroupedItemsPage.xbf">
+      <PackagePath>GroupedItemsPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1gour_000\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\bin\Release\GroupDetailPage.xbf">
+      <PackagePath>GroupDetailPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1gour_000\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\bin\Release\ItemDetailPage.xbf">
+      <PackagePath>ItemDetailPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1gour_000\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\bin\Release\Meditate Me.xr.xml">
+      <PackagePath>Meditate Me.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\1gour_000\Documents\Visual Studio 2013\Projects\Meditate Me\Meditate Me\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
